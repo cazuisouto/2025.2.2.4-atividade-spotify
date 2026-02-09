@@ -28,23 +28,23 @@ Os protótipos de referência estão disponíveis no diretório `prototipos/`:
 ---
 
 ### Preparação
-- [ ] Analisar os protótipos mobile e desktop
-- [ ] Identificar os componentes principais da interface
-- [ ] Planejar a estrutura semântica do HTML
-- [ ] Definir breakpoints para responsividade
+- [X] Analisar os protótipos mobile e desktop
+- [X] Identificar os componentes principais da interface
+- [X] Planejar a estrutura semântica do HTML
+- [X] Definir breakpoints para responsividade
 
 ---
 
 ### Estrutura HTML
-- [ ] Criar arquivo `index.html` na raiz do projeto
-- [ ] Configurar a estrutura básica HTML5:
-  - [ ] Adicionar `<!DOCTYPE html>`
-  - [ ] Configurar tag `<html>` com atributo `lang="pt-BR"`
-  - [ ] Criar seção `<head>` com:
-    - [ ] Meta charset UTF-8
+- [X] Criar arquivo `index.html` na raiz do projeto
+- [X] Configurar a estrutura básica HTML5:
+  - [X] Adicionar `<!DOCTYPE html>`
+  - [X] Configurar tag `<html>` com atributo `lang="pt-BR"`
+  - [X] Criar seção `<head>` com:
+    - [X] Meta charset UTF-8
     - [ ] Meta viewport para responsividade
-    - [ ] Tag `<title>` apropriada
-    - [ ] Link para arquivo CSS externo
+    - [X] Tag `<title>` apropriada
+    - [X] Link para arquivo CSS externo
 - [ ] Estruturar o `<body>` com elementos semânticos:
   - [ ] Header (cabeçalho/navegação)
   - [ ] Main (conteúdo principal)
